@@ -1,4 +1,5 @@
 # Data Sctructures & Algorithm
+<img src="https://miro.medium.com/max/1400/1*Dyu63sMUVL-gYEZISOE2BQ.jpeg">
 
 > [Big O Notation Examples – Time Complexity and Algorithm Efficiency Explained](https://www.freecodecamp.org/news/big-o-notation-examples-time-complexity-explained/)
 
