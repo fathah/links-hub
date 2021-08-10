@@ -5,4 +5,6 @@
 
 > [ROADMAP TO LEARNING DATA STRUCTURES AND ALGORITHMS (DSA)](https://vritika.medium.com/roadmap-to-learning-data-structures-and-algorithms-dsa-8fbc375b5701)
 
->[How to improve your data structures, algorithms, and problem-solving skills](https://medium.com/@fabianterh/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60)
+> [How to improve your data structures, algorithms, and problem-solving skills](https://medium.com/@fabianterh/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60)
+
+> [How to Study for Data-Structures and Algorithms Interviews at FAANG](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df)
